@@ -1,0 +1,32 @@
+class MyRoutes {
+  static const String loginRoute = "/login";
+  static const String homeRoute = "/home";
+  static const String splashRoute = "/splash";
+  static const String videolistDrawerRoute = "/videoListDrawer";
+  static const String youtubePlayerRoute = "/youtubePlayer";
+  static const String videosAppBarRoute = "/videosAppBar";
+  static const String gkcaRoute="/gkca";
+  static const String currentAffairGkcaDetail="/currentAffairsGkcaDetail";
+  static const String newsAppbar="/newsAppbar";
+  static const String newslistNewsAppbar="/newslistNewsAppbar";
+  static const String dateListNewsAppbar="/dateListNewsAppbar";
+  static const String newsDetailNewsAppbar="/newsDetailNewsAppbar";
+  static const String boosterMagazineGaPage="/boosterMagazineGaPage";
+  static const String webviewPage="/webviewPage";
+  static const String dailyVocabStudentzonePage="/dailyVocabStudentZone";
+  static const String assignmentSubjectStudentzonePage="/assignmentSubjectStudentzonePage";
+  static const String dcaStudentzonePage="/dcaStudentzonePage";
+  static const String assignmentChapterStudentzonePage="/assignmentChapterStudentzonePage";
+  static const String prevyearpaperSubjectsStudentzonePage="/prevyearpaperSubjectsStudentzonePage";
+  static const String prevyearpaperTestsStudentzonePage="/prevyearpaperTestsStudentzonePage";
+  static const String quizTestPage="/quizTestPage";
+  static const String quizResultPage="/quizResultPage";
+  static const String quizCorrectAnsPage="/quizCorrectAnsPage";
+  static const String dailyAssignmentPage="/dailyAssignmentPage";
+  static const String quizAppbarSubjectlistPage="/quizAppbarSubjectlistPage";
+  static const String quizAppbarQuizlistPage="/quizAppbarQuizlistPage";
+  static const String buyPlanPage="/buyplanPage";
+  static const String examInfoPage="/examinfoPage";
+  static const String studyPage="/studyPage";
+  static const String practicePage="/practicePage";
+}
