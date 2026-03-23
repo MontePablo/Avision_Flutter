@@ -1,16 +1,3 @@
 # avision
-
-crossplatform
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+backup repo
+https://private-user-images.githubusercontent.com/95046456/534434136-9192e781-2df7-492b-812a-9c6a038400c0.mp4
